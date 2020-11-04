@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的登录页面</title>
+</head>
+<body>
+<h2>自定义的登录页面</h2>
+<form id="loginForm" action="/login" method="post">
+    用户名：<input type="text" id="username" name="username"><br/><br/>
+    密&nbsp;&nbsp;&nbsp;码：<input type="password" id="password" name="password"><br/><br/>
+    <button id="loginBtn" type="submit">登录</button>
+</form>
+
+<!--
+<form id="loginForm" action="/login" method="post">
+    用户名：<input type="text" id="username" name="user"><br/><br/>
+    密&nbsp;&nbsp;&nbsp;码：<input type="password" id="password" name="passwd"><br/><br/>
+    <button id="loginBtn" type="submit">登录</button>
+</form>
+-->
+</body>
+</html>
