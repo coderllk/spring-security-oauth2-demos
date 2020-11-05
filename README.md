@@ -9,3 +9,7 @@
 2、spring-security-oauth-demo-two：spring security 自定义登录界面、登录验证、登录成功处理、登录失败处理
 
 博客地址：https://blog.csdn.net/llk15884975173/article/details/109386357
+
+3、spring-security-oauth-demo-two：spring security 从数据库中获取用户信息
+
+博客地址：https://blog.csdn.net/llk15884975173/article/details/109492264
