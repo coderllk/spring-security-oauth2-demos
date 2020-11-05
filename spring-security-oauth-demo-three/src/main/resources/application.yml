@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://192.168.1.184:3306/securityDemoThree?useUnicode=true&characterEncoding=utf-8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
