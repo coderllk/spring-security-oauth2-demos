@@ -10,6 +10,13 @@
 
 博客地址：https://blog.csdn.net/llk15884975173/article/details/109386357
 
-3、spring-security-oauth-demo-two：spring security 从数据库中获取用户信息
+3、spring-security-oauth-demo-three：spring security 从数据库中获取用户信息
 
 博客地址：https://blog.csdn.net/llk15884975173/article/details/109492264
+
+4、spring-security-oauth-demo-four：spring security 配置多条过滤器链
+
+博客地址：https://blog.csdn.net/llk15884975173/article/details/110390393
+
+5、spring-security-oauth-demo-five：spring security 实现手机验证码登录
+
