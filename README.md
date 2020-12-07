@@ -22,3 +22,7 @@
 
 博客地址：https://blog.csdn.net/llk15884975173/article/details/110523874
 
+6、spring security 中的 session 管理：超时处理、多设备登录、集群下 session 共享
+
+博客地址：https://blog.csdn.net/llk15884975173/article/details/110629852
+
