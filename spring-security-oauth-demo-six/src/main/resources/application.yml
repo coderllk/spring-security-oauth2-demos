@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    session:
+      timeout: 6000 # 单位：秒，默认为 30 分钟
+
+spring:
+  session:
+    store-type: redis
+  redis:
+    host: 192.168.0.146
+    port: 6379
+    password: root123
